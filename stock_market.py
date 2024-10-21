@@ -25,7 +25,7 @@ st.write("I am going to show you the data of Apple stock")
 
 # st.write(hist)
 
-st.dataframe(hist)
+st.dataframe(hist) #It can take large no. of dataset compare to st.write(hist)
 
 
 # st.write("This plot is for Volume of the stock")
