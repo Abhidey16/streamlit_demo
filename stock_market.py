@@ -43,3 +43,5 @@ with col1:
 with col2:
     st.write("This plot is for Price of the stock")
     st.line_chart(hist.Close)
+
+
